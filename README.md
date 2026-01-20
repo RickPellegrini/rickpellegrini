@@ -1,12 +1,17 @@
-## Hi there 👋
+Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to my profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on Creative Development
+
+🌱 I’m currently learning GSAP, Three.js, HTML & CSS, JavaScript
+
+👯 I’m looking to collaborate on Upcraft Crew
+
+🤔 I’m looking for help with design ideas and creative interactions
+
+💬 Ask me about games, sports, and creative tech
+
+📫 How to reach me: email | WhatsApp | DM
+
+⚡ Fun fact: I mix code, design, and games like it’s an RPG build — Creative Dev is my main class.
